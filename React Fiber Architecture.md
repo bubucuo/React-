@@ -274,9 +274,7 @@ flush一个fiber的意思就是把这个fiber的输出渲染到屏幕上。
 
 - [What's Next for React (ReactNext 2016)](https://youtu.be/aV1271hd9ew)
 
-
-
----未翻译完成，稍后继续---
+  
 
 ## 回顾
 
